@@ -73,3 +73,7 @@ i)
      The pursuit of quality is core to our approach in everything we do. 
      Our products are designed and built to the highest technical standards and offer excellent functionality and ease of
      use.
+     
+     can randomize and incentivise processes to detect violations. inspections done by random individuals at random rotations to catch iregularity. 
+     can insenivise by rewording individuals who live by the standards and pass random inspections. insentives can include company wide recognition, 
+     small monitary re
