@@ -1,37 +1,39 @@
 # Workshop in Applied Ethics
 ## Answer the Questions
 
-1) If all people were ethical in their interactions, there would be no need for the judiciary system since law enforcement and law itself is a direct product from trying to control unethical behavior.
+1) If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?
+
+      - The judicial system would not be required if all people conducted themselves in an ethical manner. Laws are mostly extentions of
+      the morals and ethics of the society they are made in so, if everyone followed the same code of ethics, there would be no need
+      for laws and no need for punishment for breaking those laws.
    
-   The judicial system would not be required if all people conducted themselves in an ethical manner. Laws are mostly extentions of
-   the morals and ethics of the society they are made in so, if everyone followed the same code of ethics, there would be no need
-   for laws and no need for punishment for breaking those laws.
+2) Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example    of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle      of balance of the interests of the individual and the group into the ethical code itself? Be specific.
+
+   - Banning smoking in public is an example of the group being favered over the individual. Not long ago individuals were allowed to        smoke tobacco almost anywhere. Now people are restricted in where they can smoke, mostly not where others are for work or                recreation. Smoking in any public space, inside or out, is now banned in most cities. With smoking, some individuals are infringing      on the rights of others. By smoking in public places, they are putting the non smokers health at risk. The smokers on the other          hand have the right to manage there health how they see fit and to be able to partake in legal activities with out undue burdens.        To balance the individual and the goup inerests in this case I would have left much of the segragation to individual businesses.        For example, a bar could decide they want to allow smoking in their establishment. The bar would be registered as a smoking              permited establishment. Any one wishing to patronize the bar or seek employment there would have to be in agreement with the            policy. If they were not they should not seek employment there or go there to do business. This way people who smoke could enjoy        the services of the bar, smoke while they are there and not infringe on the rights of none smokers. None smokes need not go to this      establishment and can avoid the health risks associated with second hand smoke. By the same reasoning an establishment can declare      itself an non smoking facility and all the above would apply except everyone there would be a non smoker.
    
-2) Banning smoking in public is an example of the group being favered over the individual. Not long ago individuals were allowed to smoke
-   tobacco almost anywhere. Now people are restricted in where they can smoke, mostly not where others are for work or recreation. 
-   Smoking in any public space, inside or out, is now banned in most cities.
-   With smoking, some individuals are infringing on the rights of others. By smoking in public places, they are putting the non 
-   smokers health at risk. The smokers on the other hand have the right to manage there health how they see fit and to be able to partake
-   in legal activities with out undue burdens. To balance the individual and the goup inerests in this case I would have left much of
-   the segragation to individual businesses. For example, a bar could decide they want to allow smoking in their establishment.
-   The bar would be registered as a smoking permited establishment. Any one wishing to patronize the bar or seek employment there would
-   have to be in agreement with the policy. If they were not they should not seek employment there or go there to do business.
-   This way people who smoke could enjoy the services of the bar, smoke while they are there and not infringe on the rights of none 
-   smokers. None smokes need not go to this establishment and can avoid the health risks associated with second hand smoke. By the same
-   reasoning an establishment can declare itself an non smoking facility and all the above would apply except everyone there would be
-   a non smoker.
+3) (BONUS) Ethical codes are vulnerable to the tragedy of the commons. An ethical code relies on the cooperation of the individuals.        Discuss how rogue behavior (aka defection) with respect to the ethical code of a group gives rise to the prisoner's dilemma and the      eventual demise of the ethical code. What incentives can you build in the ethical code that would counteract the attractiveness of      defection and, as a result, would mitigate the danger to the code?
+
+   - Preventing rogues in our company is a priority because this type of behavior can derail the entire company and cause the downfall        of the whole group. A way to incentivize employees to avoid rogue behavior is to hold random checks on random employees to make          sure our code of ethics is being upheld. If after the check it is found that they are being upheld, provide a monetary award,            because most of the time a person might be unethical is due to greed and greed being a product of money. Also if employees pass          inspections, they will be more eligable to raises and promotions. We would also use technilogical mutation to change the frequency      of the of the access to certain levels of security to prevent unauthorized access to data. Some incentives for following the code        of ethics could be company wide recognition or a small monetary gift.
 
 ## Class Activities
 
 1) In a small group up to 5 people, imagine you are a small tech startup. Then:
-i)
-   Leean Woo
-   Vincent Feil
-   Jessica Gardner
-   Joaquin Trujillo
-   Bruce Liu
+
+   i) Members:
    
-   ii) President: Vincent Feil
+         Leean Woo
+      
+         Vincent Feil
+      
+         Jessica Gardner
+      
+         Joaquin Trujillo
+      
+         Bruce Liu
+   
+   ii) Pick a president and write their name below. 
+   
+         Vincent Feil
    
    iii) Computer that can run any Operating System/Software 
    
