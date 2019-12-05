@@ -43,23 +43,23 @@
 
    i) Below, list at least 3 adverse effects (including but not limited to misuse) of the innovation and anticipatory actions and             mechanisms you can embed that.
    
-         Adverse effects: a) It hinders ability to adapt to different softwares/UI. b) It would affect the job market due to companies            losing proprietary ownership of specific products. c) It would force custoemrs to discard old laptops adding on to the harm of          our environment.
+      Adverse effects: a) It hinders ability to adapt to different softwares/UI. b) It would affect the job market due to companies           losing proprietary ownership of specific products. c) It would force custoemrs to discard old laptops adding on to the harm of           our environment.
 
-         Helpful effects: a) It would provide economic freedom for the individual. b)It would add ease in the evelopement of new                  products.
+      Helpful effects: a) It would provide economic freedom for the individual. b)It would add ease in the evelopement of new                 products.
          
     ii) Below, give an explicit definition of the fine line between the benefit and detriment of your innovation at two moments of its          lifetime: 
     
     (a) immediately upon launch; 
     
-         a. Immediately upon launch: It would cause a spike in laptops being thrown away and cause excess waste and impact on the                   enviornment 
+      a. Immediately upon launch: It would cause a spike in laptops being thrown away and cause excess waste and impact on the                    enviornment 
     
     (b) after enough time for it to be absorbed into everyday life.
     
-         b. After enough time for it to be absorbed into everyday life: We would lose the ability to adapt to different                             softwares or User Interfaces.
+      b. After enough time for it to be absorbed into everyday life: We would lose the ability to adapt to different                              softwares or User Interfaces.
      
 3) Your small "band of merry psychopaths" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course?
 
-  i) 
+  i) Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values      while not stiflying innovation as your startup grows and matures. Your code should have at most 9 points.
   1. Follow copyright laws, our work will be honest and original. 
      No products we design or build will violate any laws or regulations that apply.
   2. Be transparent, let the user know exactly what data/information we are recieving and taking.
