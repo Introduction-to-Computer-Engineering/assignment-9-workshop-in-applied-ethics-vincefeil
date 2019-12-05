@@ -35,15 +35,27 @@
    
          Vincent Feil
    
-   iii) Computer that can run any Operating System/Software 
+   iii) Describe your technical innovation below.
+   
+   Computer that can run any Operating System/Software 
    
 2) Describe the ways your innovation, if realized, would affect society.
 
-  i) Pros: Economic freedom for the individual, ease of development, 
-  cons: hinders ability to adapt to different softwares/UI, job market would be affected due to companies losing proprietary ownership of specific products, short term: Would force custoemrs to discard old laptops adding on to the harm of our environment.
-  
-  ii) a. Immediately upon launch: Would cause a spike in laptops being thrown away and cause excess waste and impact on the enviornment 
-      b. After enough time for it to be absorbed into everyday life: Would lose the ability to adapt to different softwares or User Interfaces. 
+   i) Below, list at least 3 adverse effects (including but not limited to misuse) of the innovation and anticipatory actions and             mechanisms you can embed that.
+   
+         Adverse effects: a) It hinders ability to adapt to different softwares/UI. b) It would affect the job market due to companies            losing proprietary ownership of specific products. c) It would force custoemrs to discard old laptops adding on to the harm of          our environment.
+
+         Helpful effects: a) It would provide economic freedom for the individual. b)It would add ease in the evelopement of new                  products.
+         
+    ii) Below, give an explicit definition of the fine line between the benefit and detriment of your innovation at two moments of its          lifetime: 
+    
+    (a) immediately upon launch; 
+    
+         a. Immediately upon launch: It would cause a spike in laptops being thrown away and cause excess waste and impact on the                   enviornment 
+    
+    (b) after enough time for it to be absorbed into everyday life.
+    
+         b. After enough time for it to be absorbed into everyday life: We would lose the ability to adapt to different                             softwares or User Interfaces.
      
 3) Your small "band of merry psychopaths" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course?
 
