@@ -21,23 +21,23 @@
 
    i) Members:
    
-         Leean Woo
+      Leean Woo
       
-         Vincent Feil
+      Vincent Feil
       
-         Jessica Gardner
+      Jessica Gardner
       
-         Joaquin Trujillo
+      Joaquin Trujillo
       
-         Bruce Liu
+      Bruce Liu
    
    ii) Pick a president and write their name below. 
    
-         Vincent Feil
+      Vincent Feil
    
    iii) Describe your technical innovation below.
    
-   Computer that can run any Operating System/Software 
+   A computer that can run any Operating System/Software. 
    
 2) Describe the ways your innovation, if realized, would affect society.
 
@@ -47,13 +47,9 @@
 
       Helpful effects: a) It would provide economic freedom for the individual. b)It would add ease in the evelopement of new                 products.
          
-    ii) Below, give an explicit definition of the fine line between the benefit and detriment of your innovation at two moments of its          lifetime: 
-    
-    (a) immediately upon launch; 
+    ii) Below, give an explicit definition of the fine line between the benefit and detriment of your innovation at two moments of its          lifetime:  
     
       a. Immediately upon launch: It would cause a spike in laptops being thrown away and cause excess waste and impact on the                    enviornment 
-    
-    (b) after enough time for it to be absorbed into everyday life.
     
       b. After enough time for it to be absorbed into everyday life: We would lose the ability to adapt to different                              softwares or User Interfaces.
      
@@ -87,6 +83,31 @@
      The pursuit of quality is core to our approach in everything we do. 
      Our products are designed and built to the highest technical standards and offer excellent functionality and ease of
      use.
+     
+  4) (BONUS) Ethical codes are vulnerable to hostile takeover of the adopting organization. Pick one person from your group and let them      remove 3 points from your Code, at their discretion, to be the most damaging overall.
+  
+     1. Follow copyright laws, our work will be honest and original  **Choice for deletion exploit**
+     2. Be transparent, let the user know exactly what data/information we are recieving and taking  **Choice for deletion exploit**
+     3. All employees and officers of the company will avoid conflic of interest. 
+     4. No employee will accept or convey a bribe.  **Choice for deletion exploit**
+     5. Our product/software will be accessible to everyone who seeks it. 
+     6. Employees will treat each other will respect, fairness, and equally. 
+     7. Customers will be treated with respect, fairness, equality, and diligence. 
+     8. Honor customer confidentiality
+     9. Produce highest quality possible
+     
+     i)Below, discuss how and why the Code has been weakened.
+     
+      a)  Follow copyright laws, our work will be honest and original.* 
+          Removing this point would make production faster but lose public trust, at least in the United States of America. It also               opens opportunity for litigation.
+      b)  Be transparent, let the user know exactly what data/information we are receiving and taking.*
+          Removing this point would make it to where actions could be done in stealth. This allows for data mining and selling                     information, which is very valuble.  A person that is also breaking this rule would have the ablity to uncover it. Without               this point, it opens up opportunity for litigation and also loses public trust.
+      c)  No employee will accept or convey a bribe.* 
+          Removing this point would allow the person or company to be bought out. We would lose control of the mission and any ethics we           hope to preserve. This would also make the company lose public trust.
+          
+      ii) Below, discuss how, in retrospect, you should have stated the points of the Code, to make it robust to disruption. Note:                 Beware of the paradox of self-amendment, which, in short, "...arises when a rule is used as the authority for its own                   amendment. It is sharper when the rule of change is supreme, sharper still when it is changed into a form that is inconsistent           with its original form, and sharpest of all when the change purports to be irrevocable."
+      
+        We could have given an exact definition for what is expected from the employees, adding detail and specifics, as well as a               general definition of each point in our code.
      
      can randomize and incentivise processes to detect violations. inspections done by random individuals at random rotations to catch iregularity. 
      can insenivise by rewording individuals who live by the standards and pass random inspections. insentives can include company wide recognition, 
